@@ -1,0 +1,1022 @@
+@media screen and (max-width:1232px){
+
+.navbar{
+    height: 120px;
+}
+
+ul li{
+    font-size: 14px;
+    gap: 13px;
+    margin-left: 36px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.order h2{
+    padding-top: 450px;
+    font-size: 35px;
+    text-align: center;
+}
+
+.imags1 img{
+    width: 500px;
+    height: 400px;
+}
+
+.imags2 img{
+    width: 500px;
+    height: 400px;
+}
+
+.sell h2{
+    padding-top: 50px;
+    font-size: 35px;
+}
+
+.con{
+    display: flex;
+    gap: 70px;
+    padding-left: 180px;
+    text-align: center;
+}
+
+.card{
+    width: 400px;
+    height: 200px;
+}
+
+.intro h1{
+    font-size: 30px;
+    padding-top: 16px;
+}   
+
+.client{
+    height: 110px;
+    display: flex;
+    margin: auto;
+    padding-left: 1px;
+}
+
+.tex4{
+    display: flex;
+    gap: 70px;
+    padding: 20px;
+}
+}
+
+
+@media screen and (max-width:1024px){
+.navbar{
+    height: 90px;
+}
+
+.icon{
+    width: 180px;
+    height: 100%;
+}
+
+.logo{
+    font-size: 30px;
+    padding-left: 20px;
+}
+
+.navbar ul{
+    text-align: center;
+    padding-right: 3px;
+}
+
+ul li{
+    font-size: 12px;
+}
+
+.imag{
+    width: 100%;
+    height: 30px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+
+.order h2{
+    padding-top: 330px;
+    font-size: 35px;
+    text-align: center;
+}
+
+.im{
+   display: grid;
+}
+
+.imags1 {
+   padding-left: 170px;
+}
+
+.imags1 img{
+    width: 700px;
+    height: 500px;
+}
+
+.imags2{
+    padding-left: 170px;
+}
+
+.imags2 img{
+    width: 700px;
+    height: 500px;
+}
+
+.sell h2{
+    padding-top: 50px;
+}
+
+.con{
+    gap: 40px;
+    padding-left: 90px;
+    text-align: center;
+}
+
+.card img{
+    width: 200px;
+    height: 60px;
+}
+
+.intro h1{
+    font-size: 30px;
+    padding-top: 18px;
+}
+
+.cake-list{
+    gap: 40px;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+.cake-item img{
+    width: 180px;
+    height: 180px;
+}
+
+.client{
+    height: 100px;
+}
+
+.cl h5{
+    display: flex;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+
+.tex4{
+    gap: 50px;
+    padding: 20px;
+}
+
+.pik img{
+    width: 70px;
+    height: 70px;
+}
+
+.pik p{
+    font-size: 17px;
+}
+}
+
+
+@media screen and (max-width:896px){
+
+        .order h2{
+            padding-top: 300px;
+            font-size: 30px;
+            text-align: center;
+        }
+
+        .imags1 {
+            padding-left: 130px;
+        }
+
+        .imags1 img{
+            width: 650px;
+            height: 490px;
+        }
+
+        .imags2 {
+            padding-left: 130px;
+        }
+
+        .imags2 img{
+            width: 650px;
+            height: 490px;
+        }
+
+        .sell h2{
+            padding-top: 50px;
+            font-size: 30px;
+        }
+
+        .con{
+            display: flex;
+            gap: 1px;
+            padding-left: 3px;
+            text-align: center;
+        }
+
+        .card{
+            width: 370px;
+            height: 160px;
+            margin: auto;
+        }
+
+        .header1 h3{
+            font-size: 29px;
+            padding-top: 20px;
+        }
+
+}
+    
+
+@media screen and (max-width:768px){
+    .nav-toggle{
+            display: block;
+        }
+    
+    .navbar ul{
+            display: none;
+        }
+    
+    .order h2{
+        padding-top: 250px;
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .imags1 {
+        padding-left: 85px;
+     }
+
+        .imags1 img{
+            width: 600px;
+            height: 450px;
+        }
+     
+     .imags2{
+         padding-left: 85px;
+     }
+
+    .imags2 img{
+        width: 600px;
+        height: 450px;  
+    }
+
+     .sell h2{
+        padding-top: 30px;
+    }
+
+    .con{
+        gap: 1px;
+        padding-left: 5px;
+        text-align: center;
+    }
+
+    .card{
+        width: 320px;
+        height: 150px;
+    }
+    
+    .card img{
+        width: 150px;
+        height: 50px;
+    }
+
+    .intro h1{
+        font-size: 20px;
+        padding-top: 18px;
+    }
+
+    .header1 h3 {
+        font-size: 28px;
+        font-weight: bold;
+    }
+
+    .cake-list{
+        gap: 30px;
+        flex-wrap: nowrap;
+        justify-content: center;
+    }
+    
+    .cake-item img{
+        width: 150px;
+        height: 150px;
+    }
+
+    .cake-item p{
+        margin-top: 10px;
+        font-size: 12px;
+    }
+
+    .know .tex h3{
+        font-size: 30px;
+        padding: 17px;
+    }
+
+    .tex p{
+        font-size: 15px;
+        padding: 0;
+    }
+
+    .form input{
+        width: 280px;
+        height: 30px;
+        font-size: 12px;
+    }
+
+    .form a{
+        font-size: 8px;
+        padding: 10px 18px;
+    }
+
+    .spe{
+        height: 260px;
+        width: 100%;
+    }
+
+    .spe .tex3 h3{
+        font-size: 28px;
+        padding-bottom: 17px;
+    }
+
+    .tex4{
+        gap: 45px;
+        padding: 18px;
+    }
+    
+    .pik img{
+        width: 70px;
+        height: 70px;
+    }
+    
+    .pik p{
+        font-size: 15px;
+    }
+
+    .footer{
+        height: 340px;
+    }
+
+    .col1 .logo1 h2{
+        font-size: 30px;
+        padding-left: 19px;
+        padding-bottom: 1px;
+    }
+
+    .row1{
+        width: 100%;
+    }
+
+    .lin1{
+        width: 190px;
+    }
+
+    .lin1 ul li{
+        margin-bottom: 9px;
+    }
+
+    .lin2 h4{
+        font-size: 12px;
+        padding-top: 40px;
+    }
+
+    .icons1{
+        gap: 17px;
+    }
+    
+    .icons1 a{
+        font-size: 20px;
+    }
+    
+    }
+
+
+    @media screen and (max-width:653px){
+
+        .imags1 {
+            padding-left: 50px;
+        }
+
+        .imags1 img{
+            width: 550px;
+            height: 400px;
+        }
+
+        .b1{
+            width: 110px;
+            height: 30px;
+            font-size: 16px;
+        }
+
+        .imags2 {
+            padding-left: 50px;
+        }
+
+        .imags2 img{
+            width: 550px;
+            height: 400px;
+        }
+
+        .b2{
+            width: 110px;
+            height: 30px;
+            font-size: 16px;
+        }
+
+        .con{
+        gap: 20px;
+        padding-left: 5px;
+        text-align: center;
+        }
+
+        .card{
+            width: 270px;
+            height: 150px;
+        }
+
+        .card img{
+            width: 180px;
+            height: 60px;
+        }
+
+        .intro h1{
+            font-size: 20px;
+            padding-top: 18px;
+            text-align: left;
+            padding-left: 60px;
+        }
+
+        .cake-list{
+            display: grid;
+            grid-template-columns: repeat(3,1fr);
+            padding: 20px;
+            justify-items: center;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+
+        .cake-item img{
+            width: 160px;
+            height: 160px;
+        }
+
+        .ad{
+            background-size: contain;
+            background-repeat: no-repeat;
+        }
+
+        .ad .text1 h5{
+            font-size: 16px;
+        }
+
+        .know .tex h3{
+            font-size: 24px;
+            padding: 17px;
+        }
+
+        .tex p{
+            font-size: 12px;
+            padding: 0;
+        }
+
+        .tex4{
+            padding: 15px;
+            justify-items: center;
+            padding-top: 0%;
+            gap: 10px;
+        }
+
+        .footer-col h1{
+            font-size: 30px;
+            padding-bottom: 10px;
+        }
+
+        .footer-col p{
+            font-size: 12px;
+            padding-bottom: 10px;
+        }
+
+        .footer-bottom{
+            text-align: center;
+            padding-top: 20px;
+        }
+
+        .social-icons i{
+            font-size: 18px;
+            align-items:center;
+            justify-content: center;
+            justify-items: center;
+        }
+
+
+    }
+
+    @media screen and (max-width:539px){
+
+        .order h2{
+            padding-top: 200px;
+            font-size: 26px;
+            text-align: center;
+        }
+
+        .imags1 {
+            padding-left: 45px;
+        }
+
+        .imags1 img{
+            width: 450px;
+            height: 360px;
+        }
+
+        .b1{
+            width: 120px;
+            height: 35px;
+            font-size: 18px;
+        }
+
+        .imags2 {
+            padding-left: 45px;
+        }
+
+        .imags2 img{
+            width: 450px;
+            height: 360px;
+        }
+
+        .b2{
+            width: 120px;
+            height: 35px;
+            font-size: 18px;
+        }
+
+        .sell h2{
+            padding-top: 30px;
+            font-size: 26px;
+        }
+
+        .con{
+            display: grid;
+            gap: 30px;
+            padding-left: 20px;
+            text-align: center;
+        }
+
+        .cake-list{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        padding: 17px;
+        justify-items: center;
+        }
+
+        .cake-item img{
+            width: 180px;
+            height: 180px;
+        }
+
+        .ad{
+            background-size: contain;
+            background-repeat: no-repeat;
+        }
+
+        .ad .text1 h5{
+            font-size: 16px;
+        }
+
+        .know{
+            background-size: contain;
+            background-repeat: no-repeat;
+            height: 150px;
+        }
+
+        .know .tex h3{
+            font-size: 22px;
+            line-height: 6px;
+            text-align: left;
+        }
+
+        .tex p{
+            font-size: 11px;
+            line-height: 2px;
+            text-align: left;
+        }
+
+        .tex4{
+            display: grid;
+            grid-template-columns: repeat(2,1fr);
+            padding: 15px;
+            justify-items: center;
+            padding-top: 0%;
+            gap: 12px;
+            padding-top: 0%;
+        }   
+
+        .spe{
+        height: 300px;
+        }
+
+        .footer{
+        padding: 30px 15px;
+        height: 270px;
+        }
+
+        .footer-top {
+        display: grid;
+         grid-template-columns: repeat(4, 1fr);  
+         row-gap: 12px;
+         column-gap: 20px;
+        }
+
+        .footer-col h1{
+        font-size: 30px;
+        }
+
+        .footer-col p{
+        font-size: 10px;
+        }
+
+        .footer-bottom{
+        text-align: center;
+        }
+
+        .social-icons i{
+        font-size: 16px;
+        align-items:center;
+        justify-content: center;
+        justify-items: center;
+        }
+
+    }
+
+    @media screen and (max-width:425px){
+
+    .order h2{
+        padding-top: 150px;
+        font-size: 25px;
+    }
+
+    .con{
+        display: grid;
+        gap: 25px;
+        padding-left: 1px;
+    }
+
+
+    .imags1 {
+        padding-left: 40px;
+    }
+
+    .imags1 img{
+        width: 340px;
+        height: 280px;
+    }
+
+    .b1{
+        width: 100px;
+        height: 30px;
+        font-size: 15px;
+    }
+
+    .imags2 {
+        padding-left: 40px;
+
+    }
+
+    .imags2 img{
+        width: 340px;
+        height: 250px;
+    }
+
+    .b2{
+        width: 100px;
+        height: 30px;
+        font-size: 15px;
+    }
+
+    .sell h2{
+        padding-top: 40px;
+    }
+
+    .con{
+        display: grid;
+        gap: 45px;
+        padding-left: 1px;
+    }
+
+    .card button{
+        font-size: 15px;
+        width: 90px;
+        height: 35px;
+    }
+
+    .card{
+        width: 310px;
+        height: 130px;
+    }
+
+    .intro h1{
+        font-size: 18px;
+        padding-top: 18px;
+    }
+
+    .header1{
+        padding-top: 20px;
+    }
+
+    .header1 h3{
+        font-size: 22px;
+    }
+
+    .view-btn{
+        font-size: 13px;
+        padding: 8px 20px;
+    }
+
+    .cake-list{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        padding: 18px;
+        justify-items: center;
+    }
+
+    .ad{
+        background-size:contain;
+        background-repeat: no-repeat;
+    }
+
+    .ad .text1 h5{
+        font-size: 14px;
+    }
+
+    .client{
+        display: none;
+    }
+
+    .know{
+        background-size:contain;
+        background-repeat: no-repeat;
+        height: 130px;
+    }
+
+    .know .tex h3{
+        font-size: 19px;
+        line-height: 6px;
+        text-align: left;
+    }
+
+    .tex p{
+        font-size: 10px;
+        line-height: 2px;
+        text-align: left;
+    }
+
+    .form input{
+        width: 190px;
+        height: 20px;
+    }
+
+    .form a{
+        font-size: 6px;
+        width: 90px;
+        height: 4px;
+    }
+
+    .spe{
+        height: 300px;
+    }
+
+    .tex4{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        padding: 12px;
+        justify-items: center;
+        padding-top: 0%;
+        gap: 10px;
+    }
+
+    .footer{
+        padding: 30px 15px;
+        height: 500px;
+    }
+
+    .footer-top {
+        display: grid;
+         grid-template-columns: repeat(2, 1fr);  
+         row-gap: 12px;
+         column-gap: 20px;
+    }
+
+    .footer-col h1{
+        font-size: 30px;
+    }
+
+    .footer-col p{
+        font-size: 11px;
+    }
+
+    .footer-bottom{
+        text-align: center;
+    }
+
+    .social-icons i{
+        font-size: 16px;
+        align-items:center;
+        justify-content: center;
+        justify-items: center;
+    }
+
+}
+
+@media screen and (max-width:375px){
+
+    .order h2{
+        padding-top: 120px;
+        font-size: 22px;
+    }
+
+    .imags1 {
+        padding-left: 45px;
+        padding-top: 30px;
+    }
+
+    .imags1 img{
+        width: 290px;
+        height: 230px;
+    }
+
+    .b1{
+        width: 90px;
+        height: 27px;
+        font-size: 13px;
+    }
+
+    .imags2 {
+        padding-left: 45px;
+        padding-top: 15px;
+    }
+
+    .imags2 img{
+        width: 290px;
+        height: 230px;
+    }
+
+    .b2{
+        width: 90px;
+        height: 27px;
+        font-size: 13px;
+    }
+
+    .sell h2{
+        padding-top: 30px;
+    }
+
+    .con{
+        display: grid;
+        gap: 40px;
+        padding-left: 1px;
+    }
+
+    .header1 h3{
+        font-size: 18px;
+    }
+
+    .cake-item img{
+        width: 120px;
+        height: 120px;
+    }
+
+    .spe{
+        height: 300px;
+    }
+
+    .tex4{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        padding: 10px;
+        justify-items: center;
+        padding-top: 0%;
+        gap: 8px;
+    }
+
+    .pik img{
+        width: 50px;
+        height: 50px;
+    }
+
+    .pik p{
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width:320px){
+
+    .imags1 {
+        padding-left: 38px;
+        padding-top: 30px;
+    }
+
+    .imags1 img{
+        width: 250px;
+        height: 200px;
+    }
+
+    .imags2 {
+        padding-left: 38px;
+        padding-top: 15px;
+    }
+
+    .imags2 img{
+        width: 250px;
+        height: 200px;
+    }
+
+    .sell h2{
+        padding-top: 28px;
+        font-size: 22px;
+    }
+
+    .con{
+        display: grid;
+        gap: 33px;
+        padding-left: 1px;
+    }
+
+    .card{
+        width: 260px;
+        height: 120px;
+    }
+
+    .card img{
+        width: 130px;
+        height: 48px;
+    }
+
+    .intro h1{
+        font-size: 16px;
+        padding-top: 18px;
+        text-align: left;
+        padding-left: 50px;
+    }
+
+    .card button{
+        font-size: 13px;
+        width: 80px;
+        height: 30px;
+    }
+
+    .header1{
+        gap: 40px;
+    }
+
+    .header1 h3{
+        font-size: 16px;
+    }
+
+    .ad .text1 h5{
+        font-size: 10px;
+    }
+
+    .know .tex h3{
+        font-size: 14px;
+        line-height: 4px;
+        text-align: left;
+    }
+
+    .tex p{
+        font-size: 9px;
+        line-height: 2px;
+        text-align: left;
+    }
+
+    .form input{
+        width: 150px;
+        height: 18px;
+        font-size: 10px;
+    }
+
+    .form a{
+        font-size: 7px;
+        width: 65px;
+        height: 1px;
+    }
+
+    .tax3{
+        display: none;
+    }
+
+    .tex4{
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        padding: 8px;
+        justify-items: center;
+        padding-top: 0%;
+        gap: 6px;
+    }
+
+
+}

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+    <link rel="stylesheet" href="form.css">
+</head>
+<body>
+
+    <div class="form-container">
+    <h1><span class="pink">Plan Your Dream</span> <span class="purple">Wedding Cake !</span></h1>
+    <form>
+      <div class="row">
+        <div class="input-group">
+          <label for="name">Name</label>
+          <input type="text" id="name" placeholder="Enter your name">
+        </div>
+        <br>
+        <div class="input-group">
+          <label for="phone">Phone</label>
+          <input type="tel" id="phone" placeholder="Enter your Phone">
+        </div>
+        <br>
+        <div class="input-group">
+          <label for="email">Email</label>
+          <input type="email" id="email" placeholder="Enter your name">
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="input-group">
+          <label for="date">Event Date</label>
+          <input type="date" id="date" placeholder="dd-mm-yyyy">
+        </div>
+        <br>
+        <div class="input-group">
+          <label for="city">City</label>
+          <select id="city">
+            <option value="">Select a City</option>
+            <option>Ahmedabad</option>
+            <option>Surat</option>
+            <option>Mumbai</option>
+            <option>Delhi</option>
+            <option>Bangalore</option>
+            <option>Bhavnagar</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="input-group">
+        <label for="notes">Additional Notes</label>
+        <textarea id="notes" rows="5" placeholder="Write any additional notes here..."></textarea>
+      </div>
+
+      <div class="submit-btn">
+        <button type="submit">ORDER NOW</button>
+      </div>
+    </form>
+  </div>
+    
+</body>
+</html>
